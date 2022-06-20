@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ReactModal__Overlay{
+  display: flex;
+  background-color: #00000033!important;
+}
